@@ -12,4 +12,4 @@ https://console.cloud.google.com/apis/credentials/oauthclient?previousPage=%2Fap
 
 
 Snack link:
-https://snack.expo.io/@komalgolani/v3-class85-jasmine
+https://snack.expo.io/@komalgolani/v3--class-85
