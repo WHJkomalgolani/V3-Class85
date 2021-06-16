@@ -12,5 +12,5 @@ https://docs.chocolatey.org/en-us/choco/setup
 https://console.cloud.google.com/apis/credentials/oauthclient?previousPage=%2Fapis%2Fcredentials%3Fproject%3Dstorytelling-app-7e2c6&folder=&organizationId=&project=storytelling-app-7e2c6
 
 
-**Snack link:**
+**Snack link(Expo 41.0.0):**
 https://snack.expo.io/@komalgolani/v3--class-85
